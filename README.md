@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi i'm zenaa
+# Biodata
 
-<!--
-**zzzzeeeeennnnnnnnn/zzzzeeeeennnnnnnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Personal Information
+- Name: Azzena Batrisya Badarudin
+- Date of Birth: 14 April 2009
+- Gender: Female
+- Nationality: Indonesian
+  
+  ## Contact Information
+  
+- Address: Taman Bepede Indah Batam, Kepulauan Riau
+- Phone: +6288284488432
+- Email: azzenacomel@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
